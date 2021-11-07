@@ -1,1 +1,1 @@
-# web3-accountsChanged
+# web3 accountsChangedHandler
